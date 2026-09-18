@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Eugine
 
-<!--
-**Jean-ugine/Jean-ugine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner Web Developer
+🌱 Currently learning HTML, CSS and JavaScript
+🚀 Building my coding skills one project at a time
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
+
+## 📚 I’m Currently Learning
+
+* Web development
+* Git & GitHub
+* JavaScript
+
+## 🎯 My Goal
+
+To become a skilled developer by building projects and continuously learning.
+
+⭐ Thanks for visiting my profile!
