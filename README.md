@@ -22,4 +22,6 @@
 
 To become a skilled developer by building projects and continuously learning.
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my ## 📖 Markdown Practice
+
+[View my Markdown practice](./markdown-practice.md)
